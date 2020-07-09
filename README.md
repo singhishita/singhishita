@@ -1,4 +1,5 @@
-## Hello there, this is Ishita!👋
+## Hello there!👋 
+### I'm glad to e-meet you!
 
 - 🔭 I’m currently on a quest to assist Businesses plot the Economic Overhaul with Strategy and Analytics.
 - 🌱 I’m currently learning how to leverage programming to harness the power of data and use it to drive extraordinary business insights.
