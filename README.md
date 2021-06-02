@@ -2,8 +2,8 @@
 ### I'm glad to *e-meet* you!
 
 - 🔭 I’m currently working as a Support Engineering Intern at Microsoft.
-- 🌱 I leverage programming to harness the power of data and use it to drive extraordinary business insights.
-- 👯 I’d love to collaborate on Business Intelligence/Data Analytics projects.
+- 🌱 I leverage programming to harness the power of technology and develop efficient customer solutions.
+- 👯 I’d love to collaborate on addressing technically complex problems identified in Microsoft products.
 - 💬 Ask me about how to chase your passion alongside a full-time professional degree/job and become financially independent ;)
 - ⚡ Fun fact about me: I wanted to pursue 3 undergraduate degrees. Spilled the beans already! ;)
 
