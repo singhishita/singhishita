@@ -1,7 +1,7 @@
 ## Hello there!👋 
 ### I'm glad to *e-meet* you!
 
-- 🔭 I’m currently working as an Analyst to help businesses leverage data & business intelligence for decision-making.
+- 🔭 I’m currently working as a Support Engineering Intern at Microsoft.
 - 🌱 I leverage programming to harness the power of data and use it to drive extraordinary business insights.
 - 👯 I’d love to collaborate on Business Intelligence/Data Analytics projects.
 - 💬 Ask me about how to chase your passion alongside a full-time professional degree/job and become financially independent ;)
