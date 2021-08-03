@@ -1,7 +1,7 @@
 ## Hello there!👋 
 ### I'm glad to *e-meet* you!
 
-- 🔭 I help Microsoft customer solve technical problems.
+- 🔭 I help Microsoft customers solve technical problems.
 - 🌱 I leverage programming to harness the power of technology and develop efficient customer solutions.
 - 👯 I’d love to collaborate on addressing technically complex problems identified in Microsoft products.
 - 💬 Ask me about how to chase your passion alongside a full-time professional degree/job and become financially independent ;)
