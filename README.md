@@ -8,7 +8,8 @@ I learn by shipping. Everything below is small, working, and public.
 
 ### Apps
  
-- [AI Jargon Decoder](https://github.com/singhishita/ai-jargon-decoder) — classifies AI terms by type and explains them in plain English. 
+- [AI Jargon Decoder](https://github.com/singhishita/ai-jargon-decoder) - Classifies AI terms by type and explains them in plain English.
+- [Deal Decoder](https://github.com/singhishita/deal-decoder) - Decodes M&A and consulting vocabulary - what it means, where it sits in the deal lifecycle, what you actually do about it.
 
 ### Knowledge
  
