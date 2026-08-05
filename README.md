@@ -8,7 +8,7 @@ I learn by shipping. Everything below is small, working, and public.
 
 ### Apps
  
-- [AI Jargon Decoder](https://github.com/ishitasingh/ai-jargon-decoder) — classifies AI terms by type and explains them in plain English. [Live](https://ai-jargon-decoder.streamlit.app)
+- [AI Jargon Decoder](https://github.com/singhishita/ai-jargon-decoder) — classifies AI terms by type and explains them in plain English. 
 
 ### Knowledge
  
