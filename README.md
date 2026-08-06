@@ -11,9 +11,9 @@ I learn by shipping. Everything below is small, working, and public.
 - [AI Jargon Decoder](https://github.com/singhishita/ai-jargon-decoder) - Classifies AI terms by type and explains them in plain English.
 - [Deal Decoder](https://github.com/singhishita/deal-decoder) - Decodes M&A and consulting vocabulary - what it means, where it sits in the deal lifecycle, what you actually do about it.
 
-### Knowledge
+### Automation
  
-_(coming soon)_
+- [Deal Pulse](https://github.com/singhishita/deal-pulse) - An automated weekday briefing on M&A, deal technology, AI, and AI policy. Runs on GitHub Actions, summarises with Gemini, commits itself to this repo.
  
 ### Experiments
  
