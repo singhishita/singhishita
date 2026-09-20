@@ -2,7 +2,7 @@
  
 I am a Deal Tech Consultant, working IT workstreams in M&A. 
  
-I learn by shipping. Everything below is small, working, and public.
+I learn by shipping. Every project below is small, working, and public.
  
 ---
 
